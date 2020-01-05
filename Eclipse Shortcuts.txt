@@ -1,0 +1,84 @@
+=================
+Eclipse Shortcuts
+=================
+1- Ctrl + Shift + L	- To see all Eclipse shortcuts
+2- Ctrl + Shift + R	- To search & open any file in workspace (Use camle case)
+3- Ctrl + Shift + T	- To search & open any Java JDK classes (Use camle case)
+4- F3
+5- F4 or Ctrl + T	- To see the Java JDK classes Type Hierarch or its methods 
+
+6- Ctrl + Space 	- Auto Suggesstion
+7- Ctrl + 1 		- Asking question what to do
+8- Alt  + Up Arrow 	- To move a statement up
+9- Alt  + Down Arrow 	- To move a statement down
+10- Alt + Shift + X 	- To run a programme
+11- Alt + Shift + D 	- To debug a programme
+12- Ctrl + Alt + X 	- To run a test
+
+13- sysout + Ctrl + Space bar - To print System.out.println();
+14- Ctrl + D		- To delete selected statements or code
+15- Ctrl + L		- To goto specific line number 
+16- Ctrl + Q		- To goto last line was edited
+17- Ctrl + O		- To get the outline of the current class
+18- Alt + Shift + F	- To open file menu bar
+
+============================
+Eclipse Debugging Shortcuts
+============================
+F11 		- Debug mode
+F11 + Ctrl	- To run debug
+F8		- Resume debug
+Ctrl + F2	- Terminate debuging mode
+
+F5		- Step Into
+Ctrl + F5	- Step Into Selection
+F6		- Step Over 
+F7		- Step Return
+Ctrl + R	- Run to Line
+Shift + F5	- Use Step Filters 
+
+Ctrl + Shift + I - To inspect a variable (Right Click on a variable)
+
+=============================
+Eclipse Refactoring Shortcuts
+=============================
+1- Alt + Shift + M		- To Refactoring selected code into a method
+2- Alt + Shift + I		- To inline the refactor code from method to code
+3- Alt + Shift + R		- To rename a variable, method, class at once
+4- Alt + Shift + T		- To bring all refactor methods
+5- Alt + Shift + C		- To change parameters of a method
+6- Alt + Shift + V		- To move methods from one class to another class
+
+=================================
+Eclipse Code generater Shortcuts
+=================================
+1- Alt + Shift + S		- To create Getters & Setters
+
+===============================================
+Eclipse Code formating Shortcuts (Save Action)
+===============================================
+1- Ctrl + Shift + F	- To Format code
+2- Window > Preferences	- To Auto Eclipse code formating
+	1. Type format in  search bar
+	2. Java > Formatter
+	3. Edit	- To format the code
+
+===============================================
+Eclipse Project Working Sets
+Managing multiple projects in Eclipse
+===============================================
+How to create new working sets?
+1- Goto the project explorer
+2- Click the DropDown
+3- Configure Working Sets
+4- Click New
+5- Working set name: enter new working set name
+6- Click Finish & OK
+
+===============================================
+Managing Eclipse Perspective
+===============================================
+1- Window > Prespective > Open Prespective	- To open other prespectives
+2- Ctrl + M					- Maximize or Minimize Prespective Window
+3- Ctrl + Shift + Q				- To view different Eclipse views
+
