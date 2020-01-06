@@ -8,10 +8,5 @@ public class GitTest {
 			System.out.print(i + " ");
 		}
 
-		System.out.print("\nPrint 10 to 1 numbers : ");
-		for (int i = 10; i > 0; i--) {
-			System.out.print(i + " ");
-		}
-
 	}
 }
